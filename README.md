@@ -2,7 +2,7 @@
 
 You are working as a software developer. Your team is developing an application that can manage a customer database and your task is to implement the database operations in the application layer. 
 
-You will find the applications Data Access Layer (DAL) in this Visual Studio solution where you must implement the CRUD methods.
+You will find the applications Data Access Layer (DAL) in this Visual Studio solution, where you must implement the CRUD methods.
 
 **HINT!** The methods that you must implement are marked with a *TODO* comment
 
