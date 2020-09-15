@@ -11,7 +11,7 @@ You can create the database table with the script below:
 ```
 CREATE TABLE [dbo].[Customers]
 (
-	[Id] INT NOT NULL PRIMARY KEY, 
+    [Id] INT NOT NULL PRIMARY KEY, 
     [Firstname] NVARCHAR(50) NULL, 
     [Lastname] NVARCHAR(50) NULL, 
     [Address] NVARCHAR(50) NULL, 
